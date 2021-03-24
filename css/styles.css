@@ -211,6 +211,8 @@ ul {
   cursor: pointer;
 }
 .btn.btn-main {
+  padding: 10px 32px;
+  
   font-weight: 700;
   line-height: 1.87;
   letter-spacing: 0.06em;
@@ -218,9 +220,10 @@ ul {
   color: var(--hero-text-color);
 }
 .btn.btn-portfolio {
-  font-weight: 500;
-  line-height: 1.62;
   padding: 6px 22px;
+  
+  font-weight: 500;
+  line-height: 1.62;  
 }
 .btn-list {
   display: flex;
